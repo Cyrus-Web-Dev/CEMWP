@@ -1,4 +1,15 @@
 # CEMWP — Connected Commerce
+> **⚠️ DISCLAIMER — KERANGKA MENTAH (MVP / CONNECTED COMMERCE)**
+>
+> **CEMWP** (POS, warehouse, toko online, CRM, Midtrans, dll.) adalah **kerangka / rilis pengembangan**, **bukan** sistem commerce yang siap produksi atau siap dipakai langsung di toko / perusahaan.
+>
+> - Jalankan sesuai README (migrate, seed, build frontend).
+> - Sebaiknya diuji oleh pihak yang paham operasional ritel/gudang (kasir, gudang, keuangan, IT).
+> - Kesesuaian alur kasir–stok–pengiriman–pembayaran–CRM **bergantung evaluasi klien**.
+> - Keamanan, integrasi pembayaran, dan kelengkapan modul **belum** diklaim memadai untuk production.
+>
+> Saya sebagai developer menyediakan **fondasi dasar** “connected loop”.  
+> Keputusan apakah sudah sesuai kebutuhan dan cukup aman — **ada pada pengguna / klien**.
 
 Laravel 11 · Inertia · Vue 3 · Tailwind · PostgreSQL · Sanctum · Gmail API · Midtrans.
 
